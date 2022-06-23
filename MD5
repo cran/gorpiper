@@ -1,12 +1,12 @@
-489dc734c28b82074b778a178027fea9 *DESCRIPTION
+8bf13d678ff706e94e268ee258126ac3 *DESCRIPTION
 07806ef91ceb6af9e65571ac57583213 *NAMESPACE
-d01ca1ad5675355ceeda969b6516834c *NEWS.md
+8f3107b2abcd31c016abf2cf6b79621f *NEWS.md
 635b9d7a3376c8edb5eb319e517e4621 *R/gorpipe.R
-64a947f87653c046c2d92e759fe3004c *R/package.R
+4414cee9ad8f83a6ba1b227d83909e3b *R/package.R
 7076ffd35f430cdad7aef052ee72e8e4 *R/utils-pipe.R
 253a9663d107a617b4455a6a4b2f4ad3 *man/figures/logo.svg
 c871ec2149a6c8af6efff220f6e5b0ed *man/get_gorpipe.Rd
-a1569b803edde90bceb27ccc3486d746 *man/gorpiper.Rd
+95d23cf82ebb526227378f7b8341be58 *man/gorpiper.Rd
 df11d456b871d91a1ce601598f21955e *man/pipe.Rd
 43e705512ceece26b65552201687e7ef *tests/testthat.R
 d55df6e0d3c3ebe3289c5d28192c6d7a *tests/testthat/test-get_gorpipe.R
